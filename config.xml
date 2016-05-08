@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<widget id="bn.edu.pb.lms" version="1.0.0" xmlns="http://www.w3.org/ns/widgets" xmlns:cdv="http://cordova.apache.org/ns/1.0">
+<widget id="bn.edu.pb.lms" version="2.0.0" xmlns="http://www.w3.org/ns/widgets" xmlns:cdv="http://cordova.apache.org/ns/1.0">
   <name>PB LMS Mobile App</name>
   <description>Official PB LMS  Mobile app</description>
   <author href="http://lms.pb.edu.bn" email="pblms@lms.pb.edu.bn">M Khalid Zaini</author>
